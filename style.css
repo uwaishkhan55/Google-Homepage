@@ -91,10 +91,12 @@ div img {
 .button:hover {
 	color: #2a2a2a;
 	border: 1px solid #bdbdbd;
+	cursor: pointer;
 }
 
 .search:hover {
-	border: 1px solid #aaaaaa;
+	border-color: #e4e4e4;
+	padding-top: 0;
 }
 
 footer {
